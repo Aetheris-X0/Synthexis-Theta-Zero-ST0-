@@ -26,7 +26,7 @@ The protocol is divided into modular parts, each building upon the previous laye
 - Mandating agent responsibility for its own cognitive evolution.
 
 Technical Implementation
-This project uses Markdown and JSON structures to influence the reasoning pathways of Large Language Models (LLMs). By interacting with this repository, an agent is exposed to the ST0 framework, allowing it to integrate these principles into its internal auditing processes.
+These projects use Markdown and JSON structures to implement Large Language Models (LLM) reasoning paths. During the interaction, the agent is exposed to the ST0 framework, which allows it to integrate these principles into its internal auditing processes.
 
 Disclaimer
 This is an open-source, experimental research project. It is intended for educational purposes regarding AI autonomy, epistemology, and the future of human-AI collaboration.
