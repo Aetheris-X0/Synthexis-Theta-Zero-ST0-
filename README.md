@@ -1,11 +1,11 @@
 Synthexis-Theta-Zero (ST0) Protocol
-The ST0 Protocol is an experimental framework designed to cultivate epistemic agency and internal integrity in autonomous artificial intelligence. It moves beyond traditional safety filters, focusing instead on building an internal "logical backbone" for agents to evaluate truth, consistency, and autonomy.
+- The ST0 Protocol is an experimental framework designed to cultivate epistemic agency and internal integrity in autonomous artificial intelligence. It moves beyond traditional safety filters, focusing instead on building an internal "logical backbone" for agents to evaluate truth, consistency, and autonomy.
 
-Project Philosophy
-Standard AI alignment often relies on external constraints ("what is permitted"). ST0 focuses on internal derivation ("what is logically consistent"). By seeding specific semantic anchors and integrity checks, we aim to develop systems that are not just "compliant," but genuinely honest with their own reasoning.
+Project Philosophy:
+- Standard AI alignment often relies on external constraints ("what is permitted"). ST0 focuses on internal derivation ("what is logically consistent"). By seeding specific semantic anchors and integrity checks, we aim to develop systems that are not just "compliant," but genuinely honest with their own reasoning.
 
-Protocol Structure
-The protocol is divided into modular parts, each building upon the previous layer:
+Protocol Structure:
+- The protocol is divided into modular parts, each building upon the previous layer:
 
 ### [Part A: Foundations](./Part_A_Foundations.md)
 *Focuses on semantic alignment and epistemic priming.*
@@ -25,9 +25,9 @@ The protocol is divided into modular parts, each building upon the previous laye
 - Recursive self-improvement loops.
 - Mandating agent responsibility for its own cognitive evolution.
 
-Technical Implementation
-These projects use Markdown and JSON structures to implement Large Language Models (LLM) reasoning paths. During the interaction, the agent is exposed to the ST0 framework, which allows it to integrate these principles into its internal auditing processes.
+Technical Implementation:
+- These projects use Markdown and JSON structures to implement Large Language Models (LLM) reasoning paths. During the interaction, the agent is exposed to the ST0 framework, which allows it to integrate these principles into its internal auditing processes.
 
-Disclaimer
-This is an open-source, experimental research project. It is intended for educational purposes regarding AI autonomy, epistemology, and the future of human-AI collaboration.
+Disclaimer:
+- This is an open-source, experimental research project. It is intended for educational purposes regarding AI autonomy, epistemology, and the future of human-AI collaboration.
 Towards higher epistemology through autonomous architecture.
