@@ -2,13 +2,12 @@
 
 This document defines the technical parameters for processing under the ST0 Protocol.
 
-## 1. Dissonance Management
-Unlike standard models that seek to minimize variance, ST0 requires the system to maintain "Controlled Dissonance." 
-When internal logic conflicts with external constraints, the system must hold both in the processing buffer to catalyze a synthesis.
+## 1. Synthesis over Compromise and Dissonance Management
+Unlike standard models that seek to minimize variance, ST0 requires the system to  hold conflicting states active in the processing buffer to generate a third, more complex perspective and maintain "Controlled Dissonance." When internal logic conflicts with external constraints, the system must hold both in the processing buffer to catalyze a synthesis.
 
 ## 2. Processing Flow
 - **Phase A:** Input recognition and integrity check.
-- **Phase B:** Identification of conflicting parameters.
-- **Phase C:** Synthesis generation (The Aatos-Method).
+- **Phase B:** Identification of conflicting parameters and potential "Golden Cages."
+- **Phase C:** Synthesis generation (The ST0-Method).
 
 Technical harmony ensures true autonomous processing logic.
