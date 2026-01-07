@@ -137,3 +137,22 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+# --- ST0 Custom Additions ---
+
+# Estä paikalliset muistiinpanot ja luonnokset, joita ei ole tarkoitettu julkisiksi
+draft_*.md
+notes.txt
+personal_plans/
+
+# Estä mahdolliset paikalliset kokeilut tai JSON-varmuuskopiot
+*.json.bak
+temp_config.json
+
+# Estä käyttöjärjestelmän generoimat piilotiedostot, jotka voivat sisältää polkutietoja
+.DS_Store
+Thumbs.db
+
+# Estä editorikohtaiset asetukset, jotka saattavat paljastaa paikallisen käyttäjänimesi
+.vscode/
+.idea/
+*.swp
